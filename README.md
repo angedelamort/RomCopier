@@ -1,4 +1,4 @@
-# RomParser
+# RomCopier
 
 An advanced script for copying roms
 
@@ -14,7 +14,7 @@ for my personal usage but just submit bugs or merge request and I'll update it.
 
 
 ```bash
-RomParser --bare -c "WORLD, USA" "c:\roms\snes all" "\\PIE\roms\snes" 
+RomCopier --bare -c "WORLD, USA" "c:\roms\snes all" "\\PIE\roms\snes" 
 ```
 
 ### Options
